@@ -5,9 +5,13 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "type-conversion", "type-conversion", "{7AB5FD58-A91F-44CF-B844-5CAEE83020BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer-to-decimal", "integer-to-decimal\integer-to-decimal.csproj", "{7E0D6547-7FDB-49A5-B278-9244F7901942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integer-to-decimal", "integer-to-decimal\integer-to-decimal.csproj", "{7E0D6547-7FDB-49A5-B278-9244F7901942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decimal-to-float", "decimal-to-float\decimal-to-float.csproj", "{57632E3D-35A2-4A9E-85BC-8C147B419F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "decimal-to-float", "decimal-to-float\decimal-to-float.csproj", "{57632E3D-35A2-4A9E-85BC-8C147B419F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "float-to-integer", "float-to-integer\float-to-integer.csproj", "{4E08DE51-3803-405E-A483-FE5FA2A99067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "character-to-integer", "character-to-integer\character-to-integer.csproj", "{2105EFA5-0C66-484D-AD94-CD314CE8E203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,14 @@ Global
 		{57632E3D-35A2-4A9E-85BC-8C147B419F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57632E3D-35A2-4A9E-85BC-8C147B419F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57632E3D-35A2-4A9E-85BC-8C147B419F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E08DE51-3803-405E-A483-FE5FA2A99067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E08DE51-3803-405E-A483-FE5FA2A99067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E08DE51-3803-405E-A483-FE5FA2A99067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E08DE51-3803-405E-A483-FE5FA2A99067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +42,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7E0D6547-7FDB-49A5-B278-9244F7901942} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 		{57632E3D-35A2-4A9E-85BC-8C147B419F10} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
+		{4E08DE51-3803-405E-A483-FE5FA2A99067} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
+		{2105EFA5-0C66-484D-AD94-CD314CE8E203} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
