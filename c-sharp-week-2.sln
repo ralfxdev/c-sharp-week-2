@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "float-to-integer", "float-t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "character-to-integer", "character-to-integer\character-to-integer.csproj", "{2105EFA5-0C66-484D-AD94-CD314CE8E203}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer-to-character", "integer-to-character\integer-to-character.csproj", "{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2105EFA5-0C66-484D-AD94-CD314CE8E203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{57632E3D-35A2-4A9E-85BC-8C147B419F10} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 		{4E08DE51-3803-405E-A483-FE5FA2A99067} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 		{2105EFA5-0C66-484D-AD94-CD314CE8E203} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
+		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
