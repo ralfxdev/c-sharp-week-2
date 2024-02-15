@@ -5,7 +5,7 @@ float resultado;
 try
 {
     Console.WriteLine("Ingrese un decimal:");
-    num = Convert.ToInt32(Console.ReadLine());
+    num = Convert.ToDecimal(Console.ReadLine());
 
     resultado = Convert.ToSingle(num);
     Console.WriteLine($"Su conversión a flotante es: {resultado}");
