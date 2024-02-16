@@ -10,7 +10,7 @@ try
     n2 = Convert.ToDecimal(Console.ReadLine()!);
 
     resultado = n1 - n2;
-    Console.WriteLine($"La resta de {n1} + {n2} es: {resultado}");
+    Console.WriteLine($"La resta de {n1} - {n2} es: {resultado}");
 
 }
 catch (Exception ex)
