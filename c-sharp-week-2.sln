@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "using-char-and-string", "us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-to-upper", "string-to-upper\string-to-upper.csproj", "{C17C244C-B4FC-4BF5-828E-42F686ECB0B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-to-lower", "string-to-lower\string-to-lower.csproj", "{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C17C244C-B4FC-4BF5-828E-42F686ECB0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C17C244C-B4FC-4BF5-828E-42F686ECB0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C17C244C-B4FC-4BF5-828E-42F686ECB0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{3C9EA9BD-9131-452B-B463-82C022815667} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
 		{DC7131F0-B46A-43B8-8BEE-EA042F5953C5} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
 		{C17C244C-B4FC-4BF5-828E-42F686ECB0B4} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
+		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
