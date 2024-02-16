@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-string", "reverse's
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word-finder", "word-finder\word-finder.csproj", "{F2D32BBF-6B5A-4DD7-992D-2273CA461461}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowel-counter", "vowel-counter\vowel-counter.csproj", "{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{EF93F6E0-C314-43B3-B319-6F627434AEB8} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{F2D32BBF-6B5A-4DD7-992D-2273CA461461} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
+		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
