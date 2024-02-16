@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distance-between-two-points
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "celsius-to-fahrenheit", "celsius-to-fahrenheit\celsius-to-fahrenheit.csproj", "{F04F9698-8C5B-45B1-9C20-DF5E749ACB79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fahrenheit-to-celsius", "fahrenheit-to-celsius\fahrenheit-to-celsius.csproj", "{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{F04F9698-8C5B-45B1-9C20-DF5E749ACB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F04F9698-8C5B-45B1-9C20-DF5E749ACB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F04F9698-8C5B-45B1-9C20-DF5E749ACB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +161,7 @@ Global
 		{11CC6E1C-8045-44EE-A082-B229BC4D750A} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
 		{26ABF3F3-8AD8-42C6-89DE-602036FEAB90} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
 		{F04F9698-8C5B-45B1-9C20-DF5E749ACB79} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
+		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
