@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangle-area", "triangle-a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sphere-volume", "sphere-volume\sphere-volume.csproj", "{11CC6E1C-8045-44EE-A082-B229BC4D750A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distance-between-two-points", "distance-between-two-points\distance-between-two-points.csproj", "{26ABF3F3-8AD8-42C6-89DE-602036FEAB90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +121,10 @@ Global
 		{11CC6E1C-8045-44EE-A082-B229BC4D750A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11CC6E1C-8045-44EE-A082-B229BC4D750A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11CC6E1C-8045-44EE-A082-B229BC4D750A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26ABF3F3-8AD8-42C6-89DE-602036FEAB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ABF3F3-8AD8-42C6-89DE-602036FEAB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26ABF3F3-8AD8-42C6-89DE-602036FEAB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26ABF3F3-8AD8-42C6-89DE-602036FEAB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +147,7 @@ Global
 		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
 		{11CC6E1C-8045-44EE-A082-B229BC4D750A} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
+		{26ABF3F3-8AD8-42C6-89DE-602036FEAB90} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
