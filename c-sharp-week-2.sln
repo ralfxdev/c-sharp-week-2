@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-to-lower", "string-t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse-string", "reverse'string\reverse-string.csproj", "{EF93F6E0-C314-43B3-B319-6F627434AEB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word-finder", "word-finder\word-finder.csproj", "{F2D32BBF-6B5A-4DD7-992D-2273CA461461}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{EF93F6E0-C314-43B3-B319-6F627434AEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF93F6E0-C314-43B3-B319-6F627434AEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF93F6E0-C314-43B3-B319-6F627434AEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D32BBF-6B5A-4DD7-992D-2273CA461461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{C17C244C-B4FC-4BF5-828E-42F686ECB0B4} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{C67081FF-1822-4C01-AE24-3E2B6EB6D7B8} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{EF93F6E0-C314-43B3-B319-6F627434AEB8} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
+		{F2D32BBF-6B5A-4DD7-992D-2273CA461461} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
