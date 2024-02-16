@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word-finder", "word-finder\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowel-counter", "vowel-counter\vowel-counter.csproj", "{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "using-numeric-data-types", "using-numeric-data-types", "{67693B47-FBE0-4B4E-B391-045B8616D7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangle-area", "triangle-area\triangle-area.csproj", "{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +133,7 @@ Global
 		{EF93F6E0-C314-43B3-B319-6F627434AEB8} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{F2D32BBF-6B5A-4DD7-992D-2273CA461461} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
 		{66EAE3A9-7FA5-4C8C-8FB6-BF8E001CCF88} = {F29C0792-A54A-4789-996E-AFF92F4A6CB7}
+		{C8E3CA95-F9BC-4224-85F5-9FF0C13CA227} = {67693B47-FBE0-4B4E-B391-045B8616D7FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
