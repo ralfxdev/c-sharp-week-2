@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "celsius-to-fahrenheit", "ce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fahrenheit-to-celsius", "fahrenheit-to-celsius\fahrenheit-to-celsius.csproj", "{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-git", "test-git\test-git.csproj", "{70D393A9-6769-4B69-AF7D-6CDEB20BA450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +139,10 @@ Global
 		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FC4D27B-92FF-4795-8B4F-1FF112D13CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D393A9-6769-4B69-AF7D-6CDEB20BA450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D393A9-6769-4B69-AF7D-6CDEB20BA450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D393A9-6769-4B69-AF7D-6CDEB20BA450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D393A9-6769-4B69-AF7D-6CDEB20BA450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
