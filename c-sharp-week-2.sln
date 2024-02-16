@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integer-to-decimal", "integ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "decimal-to-float", "decimal-to-float\decimal-to-float.csproj", "{57632E3D-35A2-4A9E-85BC-8C147B419F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "float-to-integer", "float-to-integer\float-to-integer.csproj", "{4E08DE51-3803-405E-A483-FE5FA2A99067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "float-to-integer", "float-to-integer\float-to-integer.csproj", "{4E08DE51-3803-405E-A483-FE5FA2A99067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "character-to-integer", "character-to-integer\character-to-integer.csproj", "{2105EFA5-0C66-484D-AD94-CD314CE8E203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "character-to-integer", "character-to-integer\character-to-integer.csproj", "{2105EFA5-0C66-484D-AD94-CD314CE8E203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer-to-character", "integer-to-character\integer-to-character.csproj", "{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integer-to-character", "integer-to-character\integer-to-character.csproj", "{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "operations-with-data-types", "operations-with-data-types", "{8E1FF227-307E-48EF-BE25-292A65558EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum-of-integers", "sum-of-integers\sum-of-integers.csproj", "{33ED44A9-1084-4421-9951-DEA7584C7F85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33ED44A9-1084-4421-9951-DEA7584C7F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ED44A9-1084-4421-9951-DEA7584C7F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ED44A9-1084-4421-9951-DEA7584C7F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ED44A9-1084-4421-9951-DEA7584C7F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,7 @@ Global
 		{4E08DE51-3803-405E-A483-FE5FA2A99067} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 		{2105EFA5-0C66-484D-AD94-CD314CE8E203} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
 		{0E91ABD5-015F-4A61-A9EB-8832D463EC1C} = {7AB5FD58-A91F-44CF-B844-5CAEE83020BC}
+		{33ED44A9-1084-4421-9951-DEA7584C7F85} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
