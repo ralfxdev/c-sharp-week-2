@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication-of-float", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "division-of-integer", "division-of-integer\division-of-integer.csproj", "{3C9EA9BD-9131-452B-B463-82C022815667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module-of-integers", "module-of-integers\module-of-integers.csproj", "{DC7131F0-B46A-43B8-8BEE-EA042F5953C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{3C9EA9BD-9131-452B-B463-82C022815667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C9EA9BD-9131-452B-B463-82C022815667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C9EA9BD-9131-452B-B463-82C022815667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7131F0-B46A-43B8-8BEE-EA042F5953C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7131F0-B46A-43B8-8BEE-EA042F5953C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7131F0-B46A-43B8-8BEE-EA042F5953C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7131F0-B46A-43B8-8BEE-EA042F5953C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{903EF1AD-BF65-40A2-A959-8A15413F7A5C} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
 		{E4620370-5549-4BA9-BD1C-EE64779217FC} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
 		{3C9EA9BD-9131-452B-B463-82C022815667} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
+		{DC7131F0-B46A-43B8-8BEE-EA042F5953C5} = {8E1FF227-307E-48EF-BE25-292A65558EE5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33B4A83B-43B1-42C8-ABEB-B9025F822A3C}
